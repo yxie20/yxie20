@@ -19,10 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 I am a first-year PhD student at Caltech, advised by [Steven Low](https://ee.caltech.edu/people/slow) in the 
 [Department of Computing and Mathematical Sciences](https://www.cms.caltech.edu/). My research focuses on the 
-modeling, control and optimization of energy systems. I am currently building a campus-scale cyber-physical 
-testbed at Caltech, including synchronized waveform and phasor measurement units and distributed energy resources. 
-Our work provides a foundation for a variety of downstream applications such as real-time state estimation, 
-topology & parameter estimation, transient event analysis, inverter control, carbon emission tracking and reduction, to name a few. 
+modeling, control and optimization of energy systems. I spent the last two years building a high-resolution sensor network in California, dubbed "[Digital Twin](https://github.com/caltech-netlab/digital-twin-dataset)."
 
 I completed my undergraduate studies in Computer Engineering at Brown University, where 
 I worked on various topics in robotics, reinforcement learning, and 3D computer vision. 
